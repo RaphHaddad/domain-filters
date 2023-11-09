@@ -1,0 +1,7 @@
+||facebook.com^
+||twitter.com^
+||messenger.com^
+||x.com^
+||linkedin.com^
+||reddit.com^
+||youtube.com^
